@@ -33,17 +33,6 @@
     
     
     <entry>
-      <title>画廊</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/Gallery/photo'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -66,44 +55,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>画廊</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>收藏的一些好看壁纸</title>
-      <link href="/Gallery/wallpaper/index.html"/>
-      <url>/Gallery/wallpaper/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://ftrj.github.io/img/1.jpg" alt="p12"></p>          </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>一些好看的图片</title>
-      <link href="/Gallery/photo/index.html"/>
-      <url>/Gallery/photo/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://source.fomal.cc/img/default_cover_1.webp" alt="p1"><br><img src="https://source.fomal.cc/img/default_cover_2.webp" alt="p2"><br><img src="https://source.fomal.cc/img/default_cover_3.webp" alt="p3"><br><img src="https://source.fomal.cc/img/default_cover_4.webp" alt="p4"><br><img src="https://source.fomal.cc/img/default_cover_5.webp" alt="p5"><br><img src="https://source.fomal.cc/img/default_cover_6.webp" alt="p6"><br><img src="https://source.fomal.cc/img/default_cover_7.webp" alt="p7"><br><img src="https://source.fomal.cc/img/default_cover_8.webp" alt="p8"><br><img src="https://source.fomal.cc/img/default_cover_9.webp" alt="p9"><br><img src="https://source.fomal.cc/img/default_cover_10.webp" alt="p10"><br><img src="https://source.fomal.cc/img/default_cover_11.webp" alt="p11"><br><img src="https://source.fomal.cc/img/default_cover_12.webp" alt="p12"><br><img src="https://ftrj.github.io/img/1.jpg" alt="p12"></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/Gallery/photo'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">进击的巨人</div>  <p>世界残酷，但我依然爱你</p>  <a href='/Gallery/giant'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -124,6 +80,61 @@
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>世界残酷，但我依然爱你</title>
+      <link href="/Gallery/giant/index.html"/>
+      <url>/Gallery/giant/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://ftrj.github.io/giant-img/1.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/2.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/3.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/4.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/5.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/6.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/7.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/8.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/9.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/10.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/11.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/12.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/13.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/14.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/15.jpg" alt="p12"><br><img src="https://ftrj.github.io/giant-img/16.jpg" alt="p12"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一些好看的图片</title>
+      <link href="/Gallery/photo/index.html"/>
+      <url>/Gallery/photo/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://source.fomal.cc/img/default_cover_1.webp" alt="p1"><br><img src="https://source.fomal.cc/img/default_cover_2.webp" alt="p2"><br><img src="https://source.fomal.cc/img/default_cover_3.webp" alt="p3"><br><img src="https://source.fomal.cc/img/default_cover_4.webp" alt="p4"><br><img src="https://source.fomal.cc/img/default_cover_5.webp" alt="p5"><br><img src="https://source.fomal.cc/img/default_cover_6.webp" alt="p6"><br><img src="https://source.fomal.cc/img/default_cover_7.webp" alt="p7"><br><img src="https://source.fomal.cc/img/default_cover_8.webp" alt="p8"><br><img src="https://source.fomal.cc/img/default_cover_9.webp" alt="p9"><br><img src="https://source.fomal.cc/img/default_cover_10.webp" alt="p10"><br><img src="https://source.fomal.cc/img/default_cover_11.webp" alt="p11"><br><img src="https://source.fomal.cc/img/default_cover_12.webp" alt="p12"><br><img src="https://ftrj.github.io/img/1.jpg" alt="p12"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>收藏的一些好看壁纸</title>
+      <link href="/Gallery/wallpaper/index.html"/>
+      <url>/Gallery/wallpaper/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://ftrj.github.io/img/1.jpg" alt="p12"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
