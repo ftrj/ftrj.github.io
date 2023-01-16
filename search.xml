@@ -33,17 +33,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -77,6 +66,28 @@
     
     
     <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
@@ -99,17 +110,6 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>一些好看的图片</title>
       <link href="/Gallery/photo/index.html"/>
       <url>/Gallery/photo/index.html</url>
@@ -121,22 +121,22 @@
     
     
     <entry>
-      <title>收藏的一些好看壁纸</title>
-      <link href="/Gallery/wallpaper/index.html"/>
-      <url>/Gallery/wallpaper/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://ftrj.github.io/img/1.jpg" alt="p12"></p>          </div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>收藏的一些好看壁纸</title>
+      <link href="/Gallery/wallpaper/index.html"/>
+      <url>/Gallery/wallpaper/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://ftrj.github.io/img/1.jpg" alt="p12"></p>          </div>]]></content>
       
     </entry>
     
