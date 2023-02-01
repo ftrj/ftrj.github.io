@@ -33,22 +33,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/README.html"/>
-      <url>/README.html</url>
+      <title>画廊</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="个人网页"><a href="#个人网页" class="headerlink" title="个人网页"></a>个人网页</h1><p>🌐链接： <a href="https://ftrj.github.io/">https://ftrj.github.io/</a></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/Gallery/photo'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://ftrj.github.io/giant-img/15.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">进击的巨人</div>  <p>世界如此残酷，但我依然爱你</p>  <a href='/Gallery/giant'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -66,20 +55,9 @@
     
     
     <entry>
-      <title>画廊</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">封面专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/Gallery/photo'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/dm11.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">背景专区</div>  <p>收藏的一些的背景与壁纸，分辨率很高</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://ftrj.github.io/giant-img/15.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">进击的巨人</div>  <p>世界如此残酷，但我依然爱你</p>  <a href='/Gallery/giant'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -99,33 +77,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>世界如此残酷，但我依然爱你</title>
-      <link href="/Gallery/giant/index.html"/>
-      <url>/Gallery/giant/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>一些好看的图片</title>
-      <link href="/Gallery/photo/index.html"/>
-      <url>/Gallery/photo/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
       
     </entry>
     
@@ -146,6 +102,39 @@
       <title>收藏的一些好看壁纸</title>
       <link href="/Gallery/wallpaper/index.html"/>
       <url>/Gallery/wallpaper/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一些好看的图片</title>
+      <link href="/Gallery/photo/index.html"/>
+      <url>/Gallery/photo/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>世界如此残酷，但我依然爱你</title>
+      <link href="/Gallery/giant/index.html"/>
+      <url>/Gallery/giant/index.html</url>
       
         <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
       
